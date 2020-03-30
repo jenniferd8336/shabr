@@ -1,6 +1,6 @@
-<!--menu-->
 .menu{
   border-style: solid;
+  background-color: #cfe2f3ff;
 
   font-family: 'comfortaa', serif;
 
@@ -8,37 +8,39 @@
   height: 525px
 }
 
-    .shabr{
-      font-size: 30px;
+.shabr{
+  font-size: 30px;
 
-      padding: 0px 15px 0px 15px;
-    }
+  text-align: center;
+  padding: 5px 0px 5px 0px;
+}
 
-    .submenu{
-      font-size: 15px;
-    }
+.submenu{
+  font-size: 15px;
+}
 
-        .info{
-          padding: 5px 0px 5px 5px;
-        }
+.info{
+  padding: 5px 0px 5px 5px;
+}
 
-        .gallery{
-          padding: 5px 0px 5px 5px;
-        }
+.gallery{
+  padding: 5px 0px 5px 5px;
+}
 
-        .testimonials{
-          padding: 5px 0px 5px 5px;
-        }
+.testimonials{
+  padding: 5px 0px 5px 5px;
+}
 
-        .contacts{
-          padding: 5px 0px 5px 5px;
-        }
+.contacts{
+  padding: 5px 0px 5px 5px;
+}
 
 .skydance{
   border-style: solid;
 
   font-family: 'Playfair Display', serif;
   font-size: 48px;
+  text-align: center;
 
   position: relative;
   top: -500px;
@@ -53,6 +55,7 @@
 
   font-family:'Playfair Display', serif;
   font-size: 30px;
+  text-align: center;
 
   position: relative;
   top: -500px;
@@ -67,6 +70,7 @@
 
   font-family:'caveat', cursive;
   font-size: 25px;
+  text-align: center;
 
   position: relative;
   top: -500px;
@@ -81,6 +85,7 @@
 
   font-family:'caveat', cursive;
   font-size: 25px;
+  text-align: center;
 
   position: relative;
   top: -543px;
@@ -89,5 +94,4 @@
   width: 200px;
   padding: 0px 10px 0px 10px;
 }
-
 
