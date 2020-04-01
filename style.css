@@ -97,3 +97,42 @@
   padding: 0px 10px 0px 10px;
 }
 
+
+
+
+
+.container{
+  border-style: solid;
+
+}
+
+.row{
+  border-style: solid;
+}
+
+.title{
+  border-style: solid;
+
+  font-family: "Playfair Display", serif;
+  font-size: 45px;
+  text-align: center;
+}
+
+.info{
+  border-style: solid;
+
+  font-family: "caveat", cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+.subtitle{
+  font-family: "Playfair Display", serif;
+  font-size: 23px;
+  text-align: center;
+}
+
+.para{
+  font-family: "comfortaa", cursive;
+  font-size: 15px;
+}
