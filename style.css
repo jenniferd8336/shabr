@@ -1,3 +1,9 @@
+.background{
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
 .menu{
   border-style: solid;
   background-color: #cfe2f3ff;
@@ -126,6 +132,9 @@
 .col-md{
   border-style: solid;
 }
+.g-row{
+  padding: 10px 10px 10px 10px;
+} 
 
 .title{
   border-style: solid;
