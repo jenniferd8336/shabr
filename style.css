@@ -1,7 +1,7 @@
-.background{
-  background-image: url('img_girl.jpg');
+.body{
+  background-image: url('img/homebackground.png');
   background-repeat: no-repeat;
-  background-attachment: fixed; 
+  background-attachment: fixed;
   background-size: 100% 100%;
 }
 .menu{
@@ -134,7 +134,7 @@
 }
 .g-row{
   padding: 10px 10px 10px 10px;
-} 
+}
 
 .title{
   border-style: solid;
