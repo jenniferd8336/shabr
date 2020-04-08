@@ -136,6 +136,10 @@ body{
   padding: 10px 10px 10px 10px;
 }
 
+con{
+  background-color: white;
+}
+
 .title{
   border-style: solid;
 
